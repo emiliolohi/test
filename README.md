@@ -7,5 +7,3 @@ This is another test.
 Now I create conflict by editing the readme locally.
 
 This is a second test.
-
-jgjjgjfjh
